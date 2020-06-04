@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-    GitHub explorer developed with [React](https://reactjs.org/)
+    GitHub explorer developed with <a href="https://reactjs.org/">ReactJS</a>
 </h4>
 
 ##### Dashboard
